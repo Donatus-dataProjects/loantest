@@ -1,9 +1,10 @@
 scikit-learn
 pandas
-numpy 
+numpy
 matplotlib
 ipykernel
+plotly
 seaborn
 memory_profiler
 streamlit
-streamlit_option_menu
+streamlit-option-menu
